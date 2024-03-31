@@ -4,6 +4,63 @@
     box-sizing: 0;
     font-family: 'Roboto', sans-serif;
 }
+.landing h2 a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black !important;
+    font-weight: 900;
+}
+
+.landing .logo{
+    width: 80px;
+    transform: translateY(-15px);
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.landing .section1{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    background-color: rgba(81, 80, 80, 0.078);
+    height: 600px;
+}
+
+.landing  .offcanvas-header{
+    background-color: rgb(59, 180, 59);
+    color: white;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .offcanvas-body {
+    padding: 0 !important;
+}
+
+.landing  .offcanvas-body p{
+    margin-bottom: 2em !important;
+    white-space: nowrap;
+    border-bottom: 1px solid rgb(231, 230, 230);
+    padding-bottom: 1em;
+}
+
+
+.landing .offcanvas-body a{
+    transition: .2s;
+    padding: 1em;
+    color: rgb(84, 84, 84);
+    font-size: 16px;
+    padding-right: 100%;
+}
+
+.landing  .offcanvas-body a:hover{
+    background-color: rgb(59, 180, 59);
+    color: white;
+    transition: .2s;
+}
+
 .about
 {
     height: 100vh;

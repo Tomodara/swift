@@ -30,35 +30,35 @@ export default function LandingPage() {
               <img src={img1} alt="" />
               <div className="p-4">
                 <h5 className="mb-0">Food And Drinks</h5>
-                <p className="mb-2 text-muted text-start fw-bold">Harmony Retails & Co.</p>
-                <p className="mb-0 text-start">Harmony sells all the kinds of healthy food you wish for, Howdy Special, crispy fried chicken fillet slathered...</p>
+                <p className="mb-2 text-muted text-start fw-bold">Yomi's Delight.</p>
+                <p className="mb-0 text-start">Yomi's Delight offers a variety of junk foods such as Shawarma and hamburgers, alongside nutritious smoothies and locally sourced beverages.</p>
               </div>
             </div>
 
             <div className="content">
               <img src={Foot2} alt="" />
               <div className="p-4">
-                <h5 className="mb-0">Foot Wears</h5>
-                <p className="mb-2 text-muted text-start fw-bold">Skoute & Emma Wear</p>
-                <p className="mb-0 text-start">We sell different types of foot wear, eg Canvas, foot Palm, trainners and various nike shoes, for male and female..... </p>
+                <h5 className="mb-0">GoldenBrand Collections</h5>
+                <p className="mb-2 text-muted text-start fw-bold">Foot Wears</p>
+                <p className="mb-0 text-start">We offer a diverse range of footwear, including canvas shoes, sandals, sneakers, and a variety of Nike options, catering to both men and women.</p>
               </div>
             </div>
 
             <div className="content">
               <img src={phone1} alt="" />
               <div className="p-4">
-                <h5 className="">Phones & Phone Gadget</h5>
-                <p className="mb-2 text-muted text-start fw-bold">Engr. Toyeeb </p>
-                <p className="mb-0 text-start">Best in dealing with brand new and used Phone, we have it in different models, Iphone, Android and also Laptop...</p>
+                <h5 className="">Apple Store</h5>
+                <p className="mb-2 text-muted text-start fw-bold">Iphone Accessories</p>
+                <p className="mb-0 text-start">Renowned for our expertise in handling brand new and pre-owned Apple accessories, we proudly offer a diverse array of products ranging from iPhones to MacBooks.</p>
               </div>
             </div>
            
             <div className="content">
               <img src={Packages} alt="" />
               <div className="p-4">
-                <h5 className="mb-0">Packages</h5>
-                <p className="mb-2 text-muted text-start fw-bold">Sweden Mornach Store</p>
-                <p className="mb-0 text-start">Tell us and we will package it for you, Our store offers a simple solution for your packages... </p>
+                <h5 className="mb-0">TBH</h5>
+                <p className="mb-2 text-muted text-start fw-bold">Packages</p>
+                <p className="mb-0 text-start">Inform us of your needs, and we'll take care of the packaging for you. Our store provides a straightforward solution for all your packaging requirements. </p>
               </div>
             </div>
 
@@ -66,8 +66,8 @@ export default function LandingPage() {
               <img src={fashion2} alt="" />
               <div className="p-4">
                 <h5 className="mb-0">Fashion</h5>
-                <p className="mb-2 text-muted text-start fw-bold">Diamond Place Clothing</p>
-                <p className="mb-0 text-start">We sell both male and female cloth and trouser, huddies, joggers, baggy jean, jacket jean...</p>
+                <p className="mb-2 text-muted text-start fw-bold">Fashion Nova</p>
+                <p className="mb-0 text-start">We offer a wide selection of clothing items for both men and women, including trousers, hoodies, joggers, baggy jeans, and denim jackets.</p>
               </div>
             </div>
            
@@ -76,8 +76,8 @@ export default function LandingPage() {
               <img src={Groceries2} alt="" />
               <div className="p-4">
                 <h5 className="mb-0">Groceries</h5>
-                <p className="mb-2 text-muted text-start fw-bold">God Power Cheap Groceries</p>
-                <p className="mb-0 text-start">Blackened chicken, sauteed onions and peppers smothered with pepper jack...</p>
+                <p className="mb-2 text-muted text-start fw-bold">Cheap Groceries</p>
+                <p className="mb-0 text-start">Elevate your grocery shopping with ingredients like onions, peppers, and vegetables, cabages to enhance your dishes.</p>
               </div>
             </div>
         </div>
@@ -87,7 +87,7 @@ export default function LandingPage() {
         <div className="text mb-3">
           <h2 className='mb-5'>Get Started Today!</h2>
           <h4 className="mb-3">Stay At Home We Will Deliver Your Order</h4>
-          <p className="">From 8 to 10 in the morning. Delivery is free. Outside the city Shipping costs ₦2,000. Delivery days are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday.</p>
+          <p className="">Experience hassle-free morning deliveries, absolutely free within the university campus! Get your essentials delivered Monday through Saturday, from 8 to 10 AM.</p>
           <a href="/product-listing" className="btn">View Products</a>
         </div>
         <div className="">

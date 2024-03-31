@@ -27,7 +27,7 @@ export default function Footer() {
           <ul>
             <li><h5 className='text-white'>Contact</h5></li>
             <p className="mb-2">
-              <strong>Email: </strong>
+              <strong>Email: dharasimi01@gmail.com</strong>
             </p>
             <p className="mb-2">
               <strong>Phone: </strong>+234 806 737 3972
@@ -47,7 +47,7 @@ export default function Footer() {
         <div className="content">
           <ul>
             <li><h5 className='text-white'>Latest News</h5></li>
-            <li><a href="">Grilled Chicken & Kabab With Tomato Sauce</a></li>
+            <li><a href="">Free delivery from 8 to 10 Am in the university</a></li>
           </ul>
         </div>
       </div>
